@@ -19,9 +19,6 @@ sites:
   - name: CLOUDOFFICE01
     url: $CLOUDOFFICE01
 
-  - name: CLOUD_ILGER
-    url: $CLOUD_ILGER
-
   - name: VCLOUD_HOTELTURIST
     url: $VCLOUD_HOTELTURIST
 
@@ -33,11 +30,6 @@ sites:
   - name: SMTP2_ILGER
     check: "tcp-ping"
     url: $SMTP2_ILGER
-    port: 25
-
-  - name: SMTP3_ILGER
-    check: "tcp-ping"
-    url: $SMTP3_ILGER
     port: 25
 
   - name: SMTP4_ILGER
