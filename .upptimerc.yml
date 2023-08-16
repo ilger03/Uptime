@@ -21,12 +21,7 @@ sites:
 
   - name: VCLOUD_HOTELTURIST
     url: $VCLOUD_HOTELTURIST
-
-  - name: SMTP3_QWEB
-    check: "tcp-ping"
-    url: $SMTP3_QWEB
-    port: 25
-
+    
   - name: SMTP2_ILGER
     check: "tcp-ping"
     url: $SMTP2_ILGER
