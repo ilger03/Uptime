@@ -1,7 +1,7 @@
 url: $HOSTING7_ILGER
-status: down
-code: 502
-responseTime: 446
-lastUpdated: 2023-08-23T17:32:27.078Z
+status: up
+code: 200
+responseTime: 435
+lastUpdated: 2023-08-23T17:40:26.132Z
 startTime: 2023-08-16T14:16:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
