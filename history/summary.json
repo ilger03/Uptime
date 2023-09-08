@@ -220,19 +220,19 @@
     "url": "$HOSTING5_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-5-ilger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 641,
-    "timeWeek": 672,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 639,
+    "timeDay": 660,
+    "timeWeek": 675,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-09-08": 0
+      "2023-09-08": 54
     }
   },
   {
