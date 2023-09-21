@@ -42,9 +42,9 @@
     "url": "$HOSTING_WIN3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-win-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
@@ -54,6 +54,7 @@
     "timeMonth": 625,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2023-09-21": 0,
       "2023-09-11": 36
     }
   },
