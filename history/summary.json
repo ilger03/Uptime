@@ -274,18 +274,20 @@
     "url": "$HOSTING7_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-7-ilger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 722,
-    "timeWeek": 559,
-    "timeMonth": 567,
-    "timeYear": 547,
-    "dailyMinutesDown": {}
+    "time": 567,
+    "timeDay": 1284,
+    "timeWeek": 702,
+    "timeMonth": 607,
+    "timeYear": 567,
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   },
   {
     "name": "WEB06_ZEUS",
