@@ -213,9 +213,9 @@
     "url": "$WPZADMIN7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wpzadmin-7",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -224,7 +224,9 @@
     "timeWeek": 1009,
     "timeMonth": 1056,
     "timeYear": 1083,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "HOSTING5_ILGER",
@@ -301,7 +303,7 @@
     "uptimeYear": "99.99%",
     "time": 589,
     "timeDay": 444,
-    "timeWeek": 742,
+    "timeWeek": 452,
     "timeMonth": 566,
     "timeYear": 589,
     "dailyMinutesDown": {
@@ -370,11 +372,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lacasadelformaggio",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1588,
     "timeDay": 1443,
     "timeWeek": 1568,
