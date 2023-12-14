@@ -213,19 +213,19 @@
     "url": "$WPZADMIN7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wpzadmin-7",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1037,
-    "timeWeek": 1009,
-    "timeMonth": 1056,
-    "timeYear": 1083,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1081,
+    "timeDay": 964,
+    "timeWeek": 994,
+    "timeMonth": 1050,
+    "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 11
     }
   },
   {
