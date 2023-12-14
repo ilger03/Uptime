@@ -1,7 +1,7 @@
 url: $WPZADMIN7
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-14T16:20:59.794Z
+status: up
+code: 200
+responseTime: 890
+lastUpdated: 2023-12-14T16:32:21.973Z
 startTime: 2023-08-16T14:16:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
