@@ -313,9 +313,9 @@
     "url": "$FOTI1_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foti-1-ilger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -324,7 +324,9 @@
     "timeWeek": 479,
     "timeMonth": 449,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-25": 0
+    }
   },
   {
     "name": "FOTI2_ILGER",
