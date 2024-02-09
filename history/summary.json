@@ -275,11 +275,11 @@
     "url": "$HOSTING7_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-7-ilger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "89.42%",
-    "uptimeMonth": "96.94%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "99.47%",
     "time": 575,
     "timeDay": 432,
@@ -287,6 +287,7 @@
     "timeMonth": 677,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2024-02-08": 466,
       "2024-02-07": 222,
       "2024-02-05": 304,
@@ -382,9 +383,9 @@
     "slug": "lacasadelformaggio",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 1565,
     "timeDay": 1604,
@@ -392,7 +393,6 @@
     "timeMonth": 1562,
     "timeYear": 1565,
     "dailyMinutesDown": {
-      "2024-02-09": 7,
       "2023-11-01": 713,
       "2023-08-21": 8
     }
