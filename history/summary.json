@@ -278,12 +278,12 @@
     "status": "up",
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "98.87%",
     "time": 643,
     "timeDay": 515,
-    "timeWeek": 1666,
+    "timeWeek": 1792,
     "timeMonth": 915,
     "timeYear": 643,
     "dailyMinutesDown": {
@@ -372,9 +372,9 @@
     "url": "$ECOLINEWASH3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ecolinewash-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -384,6 +384,7 @@
     "timeMonth": 3051,
     "timeYear": 3065,
     "dailyMinutesDown": {
+      "2024-03-10": 0,
       "2023-08-21": 8
     }
   },
