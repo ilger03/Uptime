@@ -1,7 +1,7 @@
 url: $WEB06_ZEUS
-status: down
-code: 502
-responseTime: 1397
-lastUpdated: 2024-03-26T11:18:39.591Z
+status: up
+code: 200
+responseTime: 414
+lastUpdated: 2024-03-26T11:26:46.884Z
 startTime: 2023-08-16T14:16:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
