@@ -1,7 +1,7 @@
 url: $SMTP5_ILGER
-status: up
-code: 200
-responseTime: 108
-lastUpdated: 2024-03-26T23:09:00.457Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-03-27T02:18:35.342Z
 startTime: 2023-08-16T14:16:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
