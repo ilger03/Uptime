@@ -344,8 +344,7 @@
       "2024-03-15": 75,
       "2024-03-13": 54,
       "2024-03-03": 37,
-      "2024-02-26": 74,
-      "2024-02-25": 72
+      "2024-02-26": 74
     }
   },
   {
@@ -425,14 +424,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.22%",
+    "uptimeYear": "19.20%",
     "time": 2874,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2657,
     "dailyMinutesDown": {
-      "2025-02-23": 1391,
+      "2025-02-24": 68,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -738,8 +738,8 @@
     "slug": "lacasadelformaggio",
     "status": "up",
     "uptime": "97.36%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "39.18%",
+    "uptimeDay": "8.16%",
+    "uptimeWeek": "40.34%",
     "uptimeMonth": "83.25%",
     "uptimeYear": "96.51%",
     "time": 1803,
